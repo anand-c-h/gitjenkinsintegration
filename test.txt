@@ -1,6 +1,11 @@
- public class Demo {
+public class Demo {
 	 public static void main (String Args[])
 	 {
 		 System.out.println("hello world vikas");
+		 int i=2;
+		 if(i=2)
+		 {
+			System.out.println("the value is 2");
+		}
 	 }
- }
+}
