@@ -14,7 +14,7 @@ public class Demo {
 		 int i=2;
 		 if(i=2)
 		 {
-			System.out.println("the value sdfghj is 2");
+			System.out.println("the value is 2");
 		}
 	 } 	
 }
